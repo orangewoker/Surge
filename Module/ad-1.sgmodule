@@ -1,5 +1,5 @@
-#!name=Block Ad1
-#!desc=Block Advertising for Surge iOS
+#!name=AD-shawty
+#!desc=该模块适用去广告
 #!system=ios
 
 [URL Rewrite]
