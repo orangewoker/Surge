@@ -1,5 +1,5 @@
-#!name=TikTok Unlock
-#!desc=Remove TikTok's regional restrictions.
+#!name=Tiktok
+#!desc=该模块适用解锁tiktok，默认日本。
 #!system=ios
 
 [URL Rewrite]
